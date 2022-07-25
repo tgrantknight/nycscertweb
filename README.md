@@ -1,6 +1,6 @@
 # My Summer of CS <3
 
-![Ed Computer](edcomputer.jpg)
+![Ed Computer](edcomputer.jpg "Ed invented the computer keytar")
 
 ## Part 1: Influencers are ProGrammers
 ### Programming Course
