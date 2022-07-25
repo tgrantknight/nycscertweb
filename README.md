@@ -1,3 +1,4 @@
+<title></title>
 # My Summer of CS <3
 
 ## Part 1: Influencers are ProGrammers
