@@ -1,4 +1,5 @@
 # <3 My Summer of CS <3
+## A Hobbit's Tale by Taylor Grant-Knight
 ###### In case you want to make a copy, this page is down to fork
 ![Ed Computer](edcomputer.jpg "Ed invented the computer keytar")
 
